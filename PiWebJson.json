@@ -1,0 +1,1602 @@
+[
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 6.007
+            }
+        },
+        "uuid": "2118d28b-e837-49ae-a597-71641942ca9d",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:27:39.837Z",
+        "attributes": {
+            "36": "HNF31460X8C1GYR7L0A",
+            "78": "R1",
+            "4": "2023-04-30T03:44:27Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.617
+            }
+        },
+        "uuid": "817c0fde-ae63-4480-844c-9be12324dbfe",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:14:49.12Z",
+        "attributes": {
+            "36": "HNF31530BGT1GYR710A",
+            "78": "R1",
+            "4": "2023-04-30T03:44:27Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.807
+            }
+        },
+        "uuid": "4965c774-c103-44d1-a6ec-863b0b687fba",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:26:37.12Z",
+        "attributes": {
+            "36": "HNF315202SL1GYR7N0A",
+            "78": "R1",
+            "4": "2023-04-30T03:44:18Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.917
+            }
+        },
+        "uuid": "b00d2a34-8402-49e5-b0ba-d67a95955a0c",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:44:24.657Z",
+        "attributes": {
+            "36": "HNF314614AF1GYR710A",
+            "78": "R1",
+            "4": "2023-04-30T03:44:10Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 6.207
+            }
+        },
+        "uuid": "c6c93221-cb0e-4c36-9496-b7f9fb1bfd08",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:32:41.86Z",
+        "attributes": {
+            "36": "HNF31460UET1GYR7Q0A",
+            "78": "R1",
+            "4": "2023-04-30T03:44:09Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.917
+            }
+        },
+        "uuid": "b24274de-e662-47a7-a014-9cfca749dc27",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:31:19.293Z",
+        "attributes": {
+            "36": "HNF31460NHB1GYR730A",
+            "78": "R1",
+            "4": "2023-04-30T03:44:01Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.907
+            }
+        },
+        "uuid": "9700d1b1-4139-464d-9377-4036c981abed",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:34:02.727Z",
+        "attributes": {
+            "36": "HNF31530YEK1GYR7U0A",
+            "78": "R1",
+            "4": "2023-04-30T03:44:00Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 6.107
+            }
+        },
+        "uuid": "4e296f11-116a-43a2-9672-8a6924bbbfce",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:37:11.863Z",
+        "attributes": {
+            "36": "HNF315307AZ1GYR7H0A",
+            "78": "R1",
+            "4": "2023-04-30T03:43:49Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.807
+            }
+        },
+        "uuid": "b19eddfa-8b55-4b66-9561-40994e0179f6",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:37:49.63Z",
+        "attributes": {
+            "36": "HNF3146068N1GYR710A",
+            "78": "R1",
+            "4": "2023-04-30T03:43:40Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 6.317
+            }
+        },
+        "uuid": "07972e3f-f76e-448f-8f57-97cc37fa09e4",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:17:20.997Z",
+        "attributes": {
+            "36": "HNF3153059A1GYR7B0A",
+            "78": "R1",
+            "4": "2023-04-30T03:43:40Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 6.107
+            }
+        },
+        "uuid": "5038e227-017c-4cda-8f32-40089f8ddaf0",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:24:04.93Z",
+        "attributes": {
+            "36": "HNF31460NC21GYR7T0A",
+            "78": "R1",
+            "4": "2023-04-30T03:43:31Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 6.117
+            }
+        },
+        "uuid": "fcbbfa1e-cbac-4204-9290-68396c969deb",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:18:04.717Z",
+        "attributes": {
+            "36": "HNF31540H601GYR7H0A",
+            "78": "R1",
+            "4": "2023-04-30T03:43:31Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 6.32
+            }
+        },
+        "uuid": "2624aaf0-0c46-4337-9418-2cace5a292d6",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:24:57.573Z",
+        "attributes": {
+            "36": "HNF314619DK1GYR7H0A",
+            "78": "R1",
+            "4": "2023-04-30T03:41:15Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 6.34
+            }
+        },
+        "uuid": "b22c0bae-6310-4e67-9a84-c34b673c1e3e",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:24:16.713Z",
+        "attributes": {
+            "36": "HNF314701A11GYR7L0A",
+            "78": "R1",
+            "4": "2023-04-30T03:41:15Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 6.44
+            }
+        },
+        "uuid": "a3f82644-1a4d-406d-b00e-e0d893016a10",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:23:24.897Z",
+        "attributes": {
+            "36": "HNF314612JA1GYR7J0A",
+            "78": "R1",
+            "4": "2023-04-30T03:41:06Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 6.54
+            }
+        },
+        "uuid": "bfa84cb7-1d3f-49e9-a68a-9c3377373b9e",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:17:51.623Z",
+        "attributes": {
+            "36": "HNF31530K0S1GYR780A",
+            "78": "R1",
+            "4": "2023-04-30T03:40:57Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 6.04
+            }
+        },
+        "uuid": "a757f8d4-6b1b-4776-9327-26bd3f628e35",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:17:08.83Z",
+        "attributes": {
+            "36": "HNF314613BC1GYR720A",
+            "78": "R1",
+            "4": "2023-04-30T03:40:48Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.94
+            }
+        },
+        "uuid": "f70f66f9-8ec1-41de-b96c-911b2bfb91cd",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:16:18.013Z",
+        "attributes": {
+            "36": "HNF3147081J1GYR7P0A",
+            "78": "R1",
+            "4": "2023-04-30T03:40:39Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.92
+            }
+        },
+        "uuid": "ea796426-a26a-42ec-acec-28eeaf5b9cd3",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:29:29.74Z",
+        "attributes": {
+            "36": "HNF31450VPQ1GYR700A",
+            "78": "R1",
+            "4": "2023-04-30T03:40:23Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 6.12
+            }
+        },
+        "uuid": "9bdfa2a3-3542-4c25-af61-826026a55d8e",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:27:27.943Z",
+        "attributes": {
+            "36": "HNF31450WTU1GYR7H0A",
+            "78": "R1",
+            "4": "2023-04-30T03:40:08Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 6.34
+            }
+        },
+        "uuid": "db503d18-9f8e-47a7-8f9f-a40e7dff84f2",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:26:50.337Z",
+        "attributes": {
+            "36": "HNF314701AU1GYR7T0A",
+            "78": "R1",
+            "4": "2023-04-30T03:40:08Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.84
+            }
+        },
+        "uuid": "9cfcd3be-a2e4-40b3-bdb7-1d47becb0f37",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:26:38.59Z",
+        "attributes": {
+            "36": "HNF31450UGD1GYR7Z0A",
+            "78": "R1",
+            "4": "2023-04-30T03:40:01Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 6.32
+            }
+        },
+        "uuid": "b2d92514-c372-4ae6-a5af-62020e440622",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:37:48.05Z",
+        "attributes": {
+            "36": "HNF315304ML1GYR700A",
+            "78": "R1",
+            "4": "2023-04-30T03:39:53Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 6.22
+            }
+        },
+        "uuid": "69cb6602-d9c2-49b9-bb29-17d14bfc29ed",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:36:28.467Z",
+        "attributes": {
+            "36": "HNF3147082C1GYR7S0A",
+            "78": "R1",
+            "4": "2023-04-30T03:39:48Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.84
+            }
+        },
+        "uuid": "76bcfda2-c429-4973-a0d3-0750b0f80fad",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:39:58.64Z",
+        "attributes": {
+            "36": "HNF31460T2G1GYR740A",
+            "78": "R1",
+            "4": "2023-04-30T03:39:46Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 6.12
+            }
+        },
+        "uuid": "c6be9629-9be0-4699-add9-417db0455cca",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:35:03.727Z",
+        "attributes": {
+            "36": "HNF31470C521GYR7P0A",
+            "78": "R1",
+            "4": "2023-04-30T03:39:39Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 6.12
+            }
+        },
+        "uuid": "e5aaeb67-877f-4f4d-99b2-bbd06dc9104a",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:36:09.85Z",
+        "attributes": {
+            "36": "HNF31460RMS1GYR770A",
+            "78": "R1",
+            "4": "2023-04-30T03:39:17Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 6.017
+            }
+        },
+        "uuid": "673dd4f6-17a6-4d47-83ff-15b0ee5f33b5",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:39:00.877Z",
+        "attributes": {
+            "36": "HNF31460AR41GYR7Y0A",
+            "78": "R1",
+            "4": "2023-04-30T03:38:42Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.807
+            }
+        },
+        "uuid": "eabf8ab2-147c-46bf-936e-54dda10b2bef",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:38:48.92Z",
+        "attributes": {
+            "36": "HNF31450S2B1GYR7B0A",
+            "78": "R1",
+            "4": "2023-04-30T03:38:42Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 6.017
+            }
+        },
+        "uuid": "0bd84079-d87f-4968-bbde-064c4433bafc",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:38:48.92Z",
+        "attributes": {
+            "36": "HNF31520VYZ1GYR7Y0A",
+            "78": "R1",
+            "4": "2023-04-30T03:38:35Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.707
+            }
+        },
+        "uuid": "6b15d08c-5bc5-4194-9bc6-727e88ec7c3a",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:38:48.92Z",
+        "attributes": {
+            "36": "HNF315204LJ1GYR760A",
+            "78": "R1",
+            "4": "2023-04-30T03:38:34Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.817
+            }
+        },
+        "uuid": "09054d4b-0fe4-4235-bc54-70178769ff3c",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:38:30.667Z",
+        "attributes": {
+            "36": "HNF31520WL41GYR7U0A",
+            "78": "R1",
+            "4": "2023-04-30T03:38:27Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.907
+            }
+        },
+        "uuid": "d72aae98-c7e4-4c2f-bf45-f918cdc880d1",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:38:30.663Z",
+        "attributes": {
+            "36": "HNF315200A51GYR7K0A",
+            "78": "R1",
+            "4": "2023-04-30T03:38:27Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.917
+            }
+        },
+        "uuid": "000d8aad-d874-40cb-b6f8-d309eb829b28",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:38:30.663Z",
+        "attributes": {
+            "36": "HNF31450VMV1GYR710A",
+            "78": "R1",
+            "4": "2023-04-30T03:38:20Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 6.107
+            }
+        },
+        "uuid": "f8c84c5e-94ce-446c-96ea-34d7bf4219e3",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:38:28.97Z",
+        "attributes": {
+            "36": "HNF31470BVS1GYR7W0A",
+            "78": "R1",
+            "4": "2023-04-30T03:38:19Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.917
+            }
+        },
+        "uuid": "0767006b-cafd-4620-8e62-fbe6107473fb",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:38:28.97Z",
+        "attributes": {
+            "36": "HNF314513CY1GYR7E0A",
+            "78": "R1",
+            "4": "2023-04-30T03:38:11Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.707
+            }
+        },
+        "uuid": "c1cf0c5d-85e9-4d58-9309-f38b0ca79329",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:38:28.967Z",
+        "attributes": {
+            "36": "HNF3146105W1GYR750A",
+            "78": "R1",
+            "4": "2023-04-30T03:38:11Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.817
+            }
+        },
+        "uuid": "a65eba2b-6f9c-4b9d-b972-c62c124ab954",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:38:15.97Z",
+        "attributes": {
+            "36": "HNF31470CQ41GYR7Y0A",
+            "78": "R1",
+            "4": "2023-04-30T03:38:04Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.807
+            }
+        },
+        "uuid": "2ad27c91-ac50-4f03-a0ff-b437ae7105d3",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:38:15.97Z",
+        "attributes": {
+            "36": "HNF3152120C1GYR730A",
+            "78": "R1",
+            "4": "2023-04-30T03:38:04Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.417
+            }
+        },
+        "uuid": "e1f01dae-cfb6-48cf-b81e-a593b164764f",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:38:01.557Z",
+        "attributes": {
+            "36": "HNF31460HLB1GYR7Z0A",
+            "78": "R1",
+            "4": "2023-04-30T03:37:56Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 6.107
+            }
+        },
+        "uuid": "a1dc1563-8545-4f4e-b9fa-489ceea38667",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:38:01.557Z",
+        "attributes": {
+            "36": "HNF314609CJ1GYR7Q0A",
+            "78": "R1",
+            "4": "2023-04-30T03:37:56Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 6.117
+            }
+        },
+        "uuid": "d9b0153e-c468-45f8-96d0-349a53fa34f6",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:38:01.557Z",
+        "attributes": {
+            "36": "HNF315301AJ1GYR740A",
+            "78": "R1",
+            "4": "2023-04-30T03:37:48Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.607
+            }
+        },
+        "uuid": "26fc7992-bf26-4af4-bad1-b6fc6247a533",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:38:01.557Z",
+        "attributes": {
+            "36": "HNF3146066J1GYR7B0A",
+            "78": "R1",
+            "4": "2023-04-30T03:37:48Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.317
+            }
+        },
+        "uuid": "5c2da806-e2c5-4bd1-b8ca-6d40fd99a2e6",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:37:49.63Z",
+        "attributes": {
+            "36": "HNF31450LMA1GYR7V0A",
+            "78": "R1",
+            "4": "2023-04-30T03:37:40Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.317
+            }
+        },
+        "uuid": "7e64d23c-5572-47eb-94c8-5096951b2c08",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:37:48.05Z",
+        "attributes": {
+            "36": "HNF31520VLT1GYR760A",
+            "78": "R1",
+            "4": "2023-04-30T03:37:33Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.817
+            }
+        },
+        "uuid": "6a6778d1-ba11-408c-b6ca-4d5421ff1da7",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:37:48.05Z",
+        "attributes": {
+            "36": "HNF315304HW1GYR720A",
+            "78": "R1",
+            "4": "2023-04-30T03:37:25Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.507
+            }
+        },
+        "uuid": "97d95057-bfea-4d03-bc43-00b898ddab34",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:37:48.05Z",
+        "attributes": {
+            "36": "HNF31460W001GYR7P0A",
+            "78": "R1",
+            "4": "2023-04-30T03:37:25Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.617
+            }
+        },
+        "uuid": "e8c966f1-a058-4dfd-bf99-5ae50a1e7cf2",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:37:26.953Z",
+        "attributes": {
+            "36": "HNF315319HH1GYR770A",
+            "78": "R1",
+            "4": "2023-04-30T03:37:17Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.707
+            }
+        },
+        "uuid": "c7b1ea1e-8ab6-46e7-9347-37f1103004e0",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:37:26.953Z",
+        "attributes": {
+            "36": "HNF314405ST1GYR7D0A",
+            "78": "R1",
+            "4": "2023-04-30T03:37:17Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.217
+            }
+        },
+        "uuid": "d1bfde42-6428-4a9c-9368-7221e4a89ff6",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:37:15.05Z",
+        "attributes": {
+            "36": "HNF314604YQ1GYR7X0A",
+            "78": "R1",
+            "4": "2023-04-30T03:37:09Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 6.207
+            }
+        },
+        "uuid": "fb46f2a1-6135-466d-bf39-f7ad691513ae",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:37:15.047Z",
+        "attributes": {
+            "36": "HNF3153007S1GYR760A",
+            "78": "R1",
+            "4": "2023-04-30T03:37:09Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.617
+            }
+        },
+        "uuid": "69b335f5-460d-4b06-a49a-010c0baaefbb",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:37:15.047Z",
+        "attributes": {
+            "36": "HNF31520YAC1GYR7E0A",
+            "78": "R1",
+            "4": "2023-04-30T03:37:02Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.807
+            }
+        },
+        "uuid": "5791210b-c510-4587-8053-896a471451d4",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:37:15.047Z",
+        "attributes": {
+            "36": "HNF31450U741GYR710A",
+            "78": "R1",
+            "4": "2023-04-30T03:37:02Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.917
+            }
+        },
+        "uuid": "c0d818f9-de33-4359-9ac1-e98500521c5e",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:37:11.863Z",
+        "attributes": {
+            "36": "HNF31460GWS1GYR7P0A",
+            "78": "R1",
+            "4": "2023-04-30T03:36:54Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.707
+            }
+        },
+        "uuid": "f960b45c-d031-4bc2-8981-a25d9f4d5cde",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:36:28.467Z",
+        "attributes": {
+            "36": "HNF315209ED1GYR7Q0A",
+            "78": "R1",
+            "4": "2023-04-30T03:36:23Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 6.007
+            }
+        },
+        "uuid": "89da4ba0-a1ab-4572-ac3e-3be2f24447ce",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:36:28.467Z",
+        "attributes": {
+            "36": "HNF31460V041GYR7L0A",
+            "78": "R1",
+            "4": "2023-04-30T03:36:15Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 6.017
+            }
+        },
+        "uuid": "37170565-28f4-4de5-8957-45ae9485b1c4",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:36:26.887Z",
+        "attributes": {
+            "36": "HNF31520RV61GYR740A",
+            "78": "R1",
+            "4": "2023-04-30T03:36:08Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 6.307
+            }
+        },
+        "uuid": "941e322b-86fc-444b-9114-2a15b6000831",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:36:26.887Z",
+        "attributes": {
+            "36": "HNF31520W521GYR770A",
+            "78": "R1",
+            "4": "2023-04-30T03:36:07Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 6.407
+            }
+        },
+        "uuid": "b7f5f601-b89c-40e0-b027-8a1ea1c3bae5",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:36:09.85Z",
+        "attributes": {
+            "36": "HNF31460HK01GYR7D0A",
+            "78": "R1",
+            "4": "2023-04-30T03:36:00Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.517
+            }
+        },
+        "uuid": "59e26819-b9bb-47dd-9915-7ada40ea2a45",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:36:09.847Z",
+        "attributes": {
+            "36": "HNF31460B3U1GYR750A",
+            "78": "R1",
+            "4": "2023-04-30T03:35:52Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 6.207
+            }
+        },
+        "uuid": "fb2bddbf-be43-4881-b150-58bda83324b5",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:36:09.847Z",
+        "attributes": {
+            "36": "HNF3145136V1GYR710A",
+            "78": "R1",
+            "4": "2023-04-30T03:35:52Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.717
+            }
+        },
+        "uuid": "a90c9085-8442-4f2a-8126-3c7563dfce81",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:35:57.057Z",
+        "attributes": {
+            "36": "HNF3146079W1GYR7P0A",
+            "78": "R1",
+            "4": "2023-04-30T03:35:44Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 6.107
+            }
+        },
+        "uuid": "b917fcd7-18e3-4b86-ab6f-82fc707285c5",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:35:57.057Z",
+        "attributes": {
+            "36": "HNF31450TUE1GYR7X0A",
+            "78": "R1",
+            "4": "2023-04-30T03:35:44Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.817
+            }
+        },
+        "uuid": "b09975c3-9ba0-44b0-a4d8-6fc5453cbfd1",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:35:55.227Z",
+        "attributes": {
+            "36": "HNF314607661GYR7N0A",
+            "78": "R1",
+            "4": "2023-04-30T03:35:37Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.507
+            }
+        },
+        "uuid": "1404b0c8-96d3-4810-8680-131b79de5862",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:35:55.223Z",
+        "attributes": {
+            "36": "HNF3154048B1GYR7D0A",
+            "78": "R1",
+            "4": "2023-04-30T03:35:37Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.517
+            }
+        },
+        "uuid": "7f4725e0-0645-4666-a80d-3f6ec6174cd3",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:35:55.223Z",
+        "attributes": {
+            "36": "HNF314701ET1GYR7G0A",
+            "78": "R1",
+            "4": "2023-04-30T03:35:30Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 6.207
+            }
+        },
+        "uuid": "a0e0c602-9e7e-4dc7-8a32-2cc0fde04444",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:35:55.223Z",
+        "attributes": {
+            "36": "HNF31450PLY1GYR770A",
+            "78": "R1",
+            "4": "2023-04-30T03:35:29Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 6.017
+            }
+        },
+        "uuid": "ee66dfb8-94a5-443c-b424-73f02f873092",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:35:24.16Z",
+        "attributes": {
+            "36": "HNF31430YUM1GYR7M0A",
+            "78": "R1",
+            "4": "2023-04-30T03:35:07Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.907
+            }
+        },
+        "uuid": "1e626f47-f027-430e-a2d3-ce31dae47a09",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:35:24.16Z",
+        "attributes": {
+            "36": "HNF31330VRJ1GYR750A",
+            "78": "R1",
+            "4": "2023-04-30T03:35:07Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 6.017
+            }
+        },
+        "uuid": "9966876f-6886-45df-b822-7d9b54ae0f89",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:35:03.727Z",
+        "attributes": {
+            "36": "HNF3153001Y1GYR7J0A",
+            "78": "R1",
+            "4": "2023-04-30T03:34:58Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.717
+            }
+        },
+        "uuid": "8b7c566e-6c3d-4106-9553-05d6135c2f91",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:35:02.043Z",
+        "attributes": {
+            "36": "HNF3145129W1GYR7S0A",
+            "78": "R1",
+            "4": "2023-04-30T03:34:49Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.607
+            }
+        },
+        "uuid": "9e1c5704-fe20-45d8-b2d4-cb0847a52f95",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:35:02.043Z",
+        "attributes": {
+            "36": "HNF31440NU71GYR7A0A",
+            "78": "R1",
+            "4": "2023-04-30T03:34:49Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.817
+            }
+        },
+        "uuid": "cff76652-e591-465a-88da-3ec34c3ede7e",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:34:48.81Z",
+        "attributes": {
+            "36": "HNF315308Y81GYR790A",
+            "78": "R1",
+            "4": "2023-04-30T03:34:40Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.507
+            }
+        },
+        "uuid": "5ac6be89-22b5-4d0d-ab75-87ba8736436a",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:34:48.81Z",
+        "attributes": {
+            "36": "HNF31530NLJ1GYR7M0A",
+            "78": "R1",
+            "4": "2023-04-30T03:34:39Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.817
+            }
+        },
+        "uuid": "8187b6da-a323-4597-9dc3-d2210df4bb20",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:34:48.81Z",
+        "attributes": {
+            "36": "HNF31530HNR1GYR7D0A",
+            "78": "R1",
+            "4": "2023-04-30T03:34:30Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.707
+            }
+        },
+        "uuid": "4ade6ad0-de31-4289-9c66-3dc8e41aa330",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:34:48.807Z",
+        "attributes": {
+            "36": "HNF315305GS1GYR780A",
+            "78": "R1",
+            "4": "2023-04-30T03:34:30Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 6.017
+            }
+        },
+        "uuid": "4fd15d20-bef5-47e2-a022-16db4e0d5fca",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:34:36.95Z",
+        "attributes": {
+            "36": "HNF3153092G1GYR7N0A",
+            "78": "R1",
+            "4": "2023-04-30T03:34:21Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 6.307
+            }
+        },
+        "uuid": "83dd4930-dfc6-4ae6-8093-fbcb0d4b8d16",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:34:36.95Z",
+        "attributes": {
+            "36": "HNF31520G1D1GYR7N0A",
+            "78": "R1",
+            "4": "2023-04-30T03:34:21Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.617
+            }
+        },
+        "uuid": "1d402e6e-9a80-45db-bfcc-d4145d3a4f57",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:34:19.443Z",
+        "attributes": {
+            "36": "HNF31460N9Z1GYR750A",
+            "78": "R1",
+            "4": "2023-04-30T03:34:12Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.807
+            }
+        },
+        "uuid": "e776ce7f-c126-4051-8d26-297818c2d321",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:34:19.443Z",
+        "attributes": {
+            "36": "HNF31520VZH1GYR7B0A",
+            "78": "R1",
+            "4": "2023-04-30T03:34:12Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 6.017
+            }
+        },
+        "uuid": "03f3d2b7-eaa8-4fe0-9da7-6c4f8c393013",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:34:17.843Z",
+        "attributes": {
+            "36": "HNF314514N31GYR7C0A",
+            "78": "R1",
+            "4": "2023-04-30T03:34:03Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 6.207
+            }
+        },
+        "uuid": "9aaa0bdf-573c-4dfc-adbe-73000df3bd48",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:34:17.84Z",
+        "attributes": {
+            "36": "HNF314705V71GYR7M0A",
+            "78": "R1",
+            "4": "2023-04-30T03:34:03Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 6.017
+            }
+        },
+        "uuid": "d63e48ad-c438-4b54-aa34-264b2fb91ad8",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:34:02.73Z",
+        "attributes": {
+            "36": "HNF314512MT1GYR7T0A",
+            "78": "R1",
+            "4": "2023-04-30T03:33:54Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 6.117
+            }
+        },
+        "uuid": "20b3af74-47d5-4337-be01-7c482ed3e2df",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:34:02.727Z",
+        "attributes": {
+            "36": "HNF31460HC41GYR7W0A",
+            "78": "R1",
+            "4": "2023-04-30T03:33:46Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 6.307
+            }
+        },
+        "uuid": "8f6ba1b1-095d-43e4-80eb-59b0ba8dfd0d",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:34:02.727Z",
+        "attributes": {
+            "36": "HNF3152105M1GYR7F0A",
+            "78": "R1",
+            "4": "2023-04-30T03:33:45Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.817
+            }
+        },
+        "uuid": "deac14b8-6087-4a16-a01e-af2e1fcadd30",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:33:50.677Z",
+        "attributes": {
+            "36": "HNF31460B8B1GYR770A",
+            "78": "R1",
+            "4": "2023-04-30T03:33:37Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.907
+            }
+        },
+        "uuid": "d7c76ad9-24f6-450c-88ed-866073a152f6",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:33:50.677Z",
+        "attributes": {
+            "36": "HNF315301XZ1GYR7U0A",
+            "78": "R1",
+            "4": "2023-04-30T03:33:36Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.717
+            }
+        },
+        "uuid": "25bac10a-4b73-4217-9844-a4571091f294",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:33:37.57Z",
+        "attributes": {
+            "36": "HNF31450UGN1GYR7Q0A",
+            "78": "R1",
+            "4": "2023-04-30T03:33:28Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 6.307
+            }
+        },
+        "uuid": "df581590-8393-42da-a46a-0346b330ef08",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:33:37.57Z",
+        "attributes": {
+            "36": "HNF314600VR1GYR790A",
+            "78": "R1",
+            "4": "2023-04-30T03:33:27Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.617
+            }
+        },
+        "uuid": "d3980317-eb5b-4c51-8913-1418d3a0024e",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:33:35.94Z",
+        "attributes": {
+            "36": "HNF314701WR1GYR740A",
+            "78": "R1",
+            "4": "2023-04-30T03:33:18Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.807
+            }
+        },
+        "uuid": "64ab3402-2169-4196-b205-8eb735934cd7",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:33:35.94Z",
+        "attributes": {
+            "36": "HNF31460KYT1GYR7D0A",
+            "78": "R1",
+            "4": "2023-04-30T03:33:18Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.417
+            }
+        },
+        "uuid": "90116452-a19c-4d62-9f85-35e02afb70e1",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:33:35.937Z",
+        "attributes": {
+            "36": "HNF31450PSH1GYR740A",
+            "78": "R1",
+            "4": "2023-04-30T03:33:09Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.807
+            }
+        },
+        "uuid": "035d2c20-7129-4481-b6b9-edeb98f243ea",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:33:35.937Z",
+        "attributes": {
+            "36": "HNF31460XF81GYR730A",
+            "78": "R1",
+            "4": "2023-04-30T03:33:09Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.617
+            }
+        },
+        "uuid": "7a6bd349-588d-4e48-b5bb-f1c8d789efc2",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:33:14.213Z",
+        "attributes": {
+            "36": "HNF31520TUE1GYR7X0A",
+            "78": "R1",
+            "4": "2023-04-30T03:33:00Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.907
+            }
+        },
+        "uuid": "d54c4200-39f4-4192-b7d1-9b0c695668ee",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:33:14.213Z",
+        "attributes": {
+            "36": "HNF314607GR1GYR770A",
+            "78": "R1",
+            "4": "2023-04-30T03:33:00Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.517
+            }
+        },
+        "uuid": "58a1a51f-9c87-46bc-99ed-d0f5c41a33e1",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:33:02.333Z",
+        "attributes": {
+            "36": "HNF31520MLN1GYR7K0A",
+            "78": "R1",
+            "4": "2023-04-30T03:32:51Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 6.407
+            }
+        },
+        "uuid": "80c2f9d9-3049-44c1-8109-1de1782ad5e4",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:33:02.333Z",
+        "attributes": {
+            "36": "HNF31520LAZ1GYR750A",
+            "78": "R1",
+            "4": "2023-04-30T03:32:50Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 6.017
+            }
+        },
+        "uuid": "7143c6f0-1538-446d-a4ee-ec98f18ba828",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:33:00.813Z",
+        "attributes": {
+            "36": "HNF31450VK61GYR7W0A",
+            "78": "R1",
+            "4": "2023-04-30T03:32:41Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.507
+            }
+        },
+        "uuid": "b0bb745d-20d3-42b8-b866-8f811d34db8c",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:33:00.813Z",
+        "attributes": {
+            "36": "HNF31440JCJ1GYR7H0A",
+            "78": "R1",
+            "4": "2023-04-30T03:32:41Z"
+        }
+    },
+    {
+        "characteristics": {
+            "1fed15dc-f1aa-4e8e-8596-bf862b104edf": {
+                "1": 5.817
+            }
+        },
+        "uuid": "5299bd95-15c3-440a-925f-9352d90e7ae7",
+        "partUuid": "e892b2df-381c-4219-af68-4e53c671f2b4",
+        "lastModified": "2023-05-02T10:56:53.69Z",
+        "created": "2023-04-30T03:32:41.86Z",
+        "attributes": {
+            "36": "HNF314613UV1GYR720A",
+            "78": "R1",
+            "4": "2023-04-30T03:32:32Z"
+        }
+    }
+]
